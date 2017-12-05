@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+[Final_Project_for_Stat_184.html]{Final_Project_for_Stat_184.html}
+
+
 You can use the [editor on GitHub](https://github.com/stevgriffs/Population-Coding-Experience/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
